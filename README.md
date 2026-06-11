@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=yo%2C+this+is+matviikk+%F0%9F%91%BE;commits+mostly+at+3am;powered+by+coffee+%26+deadlines;scroll+down%2C+the+snake+is+hungry+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=yo%2C+this+is+matviikk+%F0%9F%91%BE;commits+mostly+at+3am;works+on+my+machine+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF;git+push+--force+and+pray" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=matviikk&style=flat-square&color=58A6FF" alt="Profile views" />
 

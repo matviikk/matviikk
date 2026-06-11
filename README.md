@@ -17,10 +17,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=matviikk&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity graph" />
 
-## 🃏 Random dev joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes card" />
-
 ## 🐍 Snake eating my commits
 
 <img src="https://raw.githubusercontent.com/matviikk/matviikk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />

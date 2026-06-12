@@ -1,14 +1,6 @@
 <div align="center">
 
-<img src="https://wttr.in/Saint+Petersburg_0q_lang=ru.png" alt="Погода в Питере" />
-
 <img src="https://komarev.com/ghpvc/?username=matviikk&style=flat-square&color=58A6FF" alt="Profile views" />
-
-## 🔴 Покемон дня
-
-<img height="200" src="https://raw.githubusercontent.com/matviikk/matviikk/output/pokemon.png" alt="Pokemon of the day" />
-
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fmatviikk%2Fmatviikk%2Foutput%2Fpokemon.json&query=%24.name&label=pokemon%20of%20the%20day&color=58A6FF&style=flat-square" alt="Pokemon name" />
 
 ## 🗂 Summary
 

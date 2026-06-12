@@ -10,14 +10,9 @@
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matviikk&theme=tokyonight&utcOffset=3" alt="Commit time of day" />
 
-## 📈 Stats
+## 🌃 Commits in 3D
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=matviikk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matviikk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=matviikk&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matviikk&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity graph" />
+<img src="https://raw.githubusercontent.com/matviikk/matviikk/output/profile-night-rainbow.svg" alt="3D contribution graph" />
 
 ## 🐍 Snake eating my commits
 

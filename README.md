@@ -4,9 +4,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=matviikk&style=flat-square&color=58A6FF" alt="Profile views" />
 
-## 🏆 Trophies
+## 🗂 Summary
 
-<img src="https://github-profile-trophy.vercel.app/?username=matviikk&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matviikk&theme=tokyonight" alt="Profile summary" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=matviikk&theme=tokyonight&utcOffset=3" alt="Commit time of day" />
 
 ## 📈 Stats
 

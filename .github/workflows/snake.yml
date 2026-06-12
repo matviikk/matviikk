@@ -19,6 +19,13 @@ jobs:
         with:
           github_user_name: matviikk
 
+      - name: Pokemon of the day
+        run: |
+          ID=$((RANDOM % 898 + 1))
+          curl -sL "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/$ID.png" -o dist/pokemon.png
+          NAME=$(curl -s "https://pokeapi.co/api/v2/pokemon/$ID" | python3 -c "import json,sys; print(json.load(sys.stdin)['name'])")
+          printf '{"name":"%s"}' "$NAME" > dist/pokemon.json
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

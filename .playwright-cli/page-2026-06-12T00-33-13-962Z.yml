@@ -1,0 +1,204 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - generic [ref=e6] [cursor=pointer]:
+          - img [ref=e8]
+          - generic [ref=e13]: Reactions
+          - img [ref=e15]
+        - generic [ref=e17] [cursor=pointer]:
+          - img [ref=e19]
+          - generic [ref=e24]: Categories
+          - img [ref=e26]
+        - generic [ref=e29] [cursor=pointer]:
+          - img [ref=e32]
+          - generic [ref=e34]: Create
+        - generic [ref=e36] [cursor=pointer]:
+          - img [ref=e39]
+          - generic [ref=e44]: Advertise
+        - generic [ref=e46] [cursor=pointer]:
+          - img [ref=e49]
+          - generic [ref=e51]: Log In
+        - generic [ref=e53] [cursor=pointer]:
+          - img [ref=e56]
+          - generic [ref=e58]: More
+    - link "GIPHY Logo" [ref=e60] [cursor=pointer]:
+      - /url: /
+      - img "GIPHY Logo" [ref=e61]
+    - generic [ref=e65]:
+      - textbox "Search all the GIFs and Stickers" [active] [ref=e66]: tumbleweed rolling
+      - img [ref=e67] [cursor=pointer]
+      - img [ref=e78] [cursor=pointer]
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - link "ghosttown" [ref=e86] [cursor=pointer]:
+          - /url: /search/ghosttown
+          - img [ref=e87]
+          - generic [ref=e89]: ghosttown
+        - link "lonesome" [ref=e90] [cursor=pointer]:
+          - /url: /search/lonesome
+          - img [ref=e91]
+          - generic [ref=e93]: lonesome
+        - link "awkward crickets" [ref=e94] [cursor=pointer]:
+          - /url: /search/awkward-crickets
+          - img [ref=e95]
+          - generic [ref=e97]: awkward crickets
+        - link "deserted" [ref=e98] [cursor=pointer]:
+          - /url: /search/deserted
+          - img [ref=e99]
+          - generic [ref=e101]: deserted
+        - link "emptyness" [ref=e102] [cursor=pointer]:
+          - /url: /search/emptyness
+          - img [ref=e103]
+          - generic [ref=e105]: emptyness
+        - link "where is everyone" [ref=e106] [cursor=pointer]:
+          - /url: /search/where-is-everyone
+          - img [ref=e107]
+          - generic [ref=e109]: where is everyone
+        - link "wasteland" [ref=e110] [cursor=pointer]:
+          - /url: /search/wasteland
+          - img [ref=e111]
+          - generic [ref=e113]: wasteland
+        - link "crickets chirping" [ref=e114] [cursor=pointer]:
+          - /url: /search/crickets-chirping
+          - img [ref=e115]
+          - generic [ref=e117]: crickets chirping
+        - link "abandoned" [ref=e118] [cursor=pointer]:
+          - /url: /search/abandoned
+          - img [ref=e119]
+          - generic [ref=e121]: abandoned
+        - link "ghost town" [ref=e122] [cursor=pointer]:
+          - /url: /search/ghost-town
+          - img [ref=e123]
+          - generic [ref=e125]: ghost town
+      - generic:
+        - generic:
+          - img
+      - img [ref=e127] [cursor=pointer]
+    - generic [ref=e129]:
+      - generic [ref=e134]:
+        - link "GIFs" [ref=e135] [cursor=pointer]:
+          - /url: /search/tumbleweed-rolling
+        - link "Stickers" [ref=e136] [cursor=pointer]:
+          - /url: /search/tumbleweed-rolling-stickers
+        - link "Clips" [ref=e137] [cursor=pointer]:
+          - /url: /search/tumbleweed-rolling-clips
+      - generic [ref=e138]:
+        - button "Sort" [ref=e140] [cursor=pointer]:
+          - img [ref=e141]
+          - text: Sort
+        - generic:
+          - button "Filter":
+            - img
+            - text: Filter
+    - generic [ref=e145]:
+      - generic [ref=e146]:
+        - link "Zoning Out Ticking Clock GIF by Persona" [ref=e147] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/PersonaJourney-this-couldve-been-an-email-me-in-meetings-JFe5upH2XHVaPXxkdH
+          - img "Zoning Out Ticking Clock GIF by Persona" [ref=e149]
+        - 'link "No One Page GIF #page #content #front #no one #tumbleweed #no response #ghost town" [ref=e150] [cursor=pointer]':
+          - /url: https://giphy.com/gifs/page-front-content-d8lUKXD00IXSw
+          - img "No One Page GIF" [ref=e152]
+          - generic [ref=e153]:
+            - generic [ref=e154]: "#page"
+            - generic [ref=e155]: "#content"
+            - generic [ref=e156]: "#front"
+            - generic [ref=e157]: "#no one"
+            - generic [ref=e158]: "#tumbleweed"
+            - generic [ref=e159]: "#no response"
+            - generic [ref=e160]: "#ghost town"
+        - 'link "Video gif. Pan on a brambly desertscape finds a tumbleweed blowing through, followed by a second, smaller one. #area 51 #desierto #tumbleweed #tumbleweeds" [ref=e161] [cursor=pointer]':
+          - /url: https://giphy.com/gifs/tumbleweed-1Zbeweu52ZaQE
+          - img "Video gif. Pan on a brambly desertscape finds a tumbleweed blowing through, followed by a second, smaller one." [ref=e163]
+          - generic [ref=e164]:
+            - generic [ref=e165]: "#area 51"
+            - generic [ref=e166]: "#desierto"
+            - generic [ref=e167]: "#tumbleweed"
+            - generic [ref=e168]: "#tumbleweeds"
+        - link "No One Tumbleweed GIF" [ref=e169] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweeds-n1RJwTK8oMD5K
+          - img "No One Tumbleweed GIF" [ref=e171]
+        - link "tumbleweed GIF" [ref=e172] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweeds-Eeo07IcwDkRXi
+          - img "tumbleweed GIF" [ref=e174]
+        - link "tumbleweed GIF" [ref=e175] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/lonely-gif-65EzQXyjjn5jW
+          - img "tumbleweed GIF" [ref=e177]
+      - generic [ref=e178]:
+        - link "Flip Rolling GIF by Rodney Dangerfield" [ref=e179] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/rodneydangerfield-rodney-dangerfield-thornton-melon-triple-lindy-oXnpwHQU5VuAT7b7Z2
+          - img "Flip Rolling GIF by Rodney Dangerfield" [ref=e181]
+        - 'link "image GIF #image" [ref=e182] [cursor=pointer]':
+          - /url: https://giphy.com/gifs/VBfFv9oOZAvvi
+          - img "image GIF" [ref=e184]
+          - generic [ref=e186]: "#image"
+        - 'link "Tumbleweed GIF #tumbleweed #tumbleweeds" [ref=e187] [cursor=pointer]':
+          - /url: https://giphy.com/gifs/tumbleweeds-eFdILj4kspvr2
+          - img "Tumbleweed GIF" [ref=e189]
+          - generic [ref=e190]:
+            - generic [ref=e191]: "#tumbleweed"
+            - generic [ref=e192]: "#tumbleweeds"
+        - link "tumbleweed GIF" [ref=e193] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweeds-tj2MwoqitZLtm
+          - img "tumbleweed GIF" [ref=e195]
+        - link "Movie gif. Robert Downey Jr. as Tony Stark in Iron Man has his arms crossed and he rolls his eyes dramatically." [ref=e196] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/iron-man-eye-roll-disgust-qmfpjpAT2fJRK
+          - img "Movie gif. Robert Downey Jr. as Tony Stark in Iron Man has his arms crossed and he rolls his eyes dramatically." [ref=e198]
+        - link "tumbleweed GIF" [ref=e199] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweed-PYph0O3Tb1SYo
+          - img "tumbleweed GIF" [ref=e201]
+      - generic [ref=e202]:
+        - link "Rolling Saints Row GIF by Deep Silver" [ref=e203] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/DeepSilverOfficial-summer-saints-row-sainta-Bw16Ti10NQneyOIr59
+          - img "Rolling Saints Row GIF by Deep Silver" [ref=e205]
+        - link "hold on falling GIF by Barbara Pozzi" [ref=e206] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/falling-rolling-down-69B2UJSM5vNvvZRJhi
+          - img "hold on falling GIF by Barbara Pozzi" [ref=e208]
+        - 'link "Video gif. Empty desert road has a single tumbleweed blow across it. #landscape #desierto #tumbleweed #tumbleweeds" [ref=e209] [cursor=pointer]':
+          - /url: https://giphy.com/gifs/tumbleweed-landscape-5x89XRx3sBZFC
+          - img "Video gif. Empty desert road has a single tumbleweed blow across it." [ref=e211]
+          - generic [ref=e212]:
+            - generic [ref=e213]: "#landscape"
+            - generic [ref=e214]: "#desierto"
+            - generic [ref=e215]: "#tumbleweed"
+            - generic [ref=e216]: "#tumbleweeds"
+        - link "Tumbleweed GIF" [ref=e217] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweed-h7noFsLU9Ekj6
+          - img "Tumbleweed GIF" [ref=e219]
+        - link "tumbleweed GIF" [ref=e220] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweed-2JUwr3tnfiQJa
+          - img "tumbleweed GIF" [ref=e222]
+        - link "tumbleweed GIF" [ref=e223] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweeds-tumbleweed-tumble-weed-zyOonoGHbcr8Q
+          - img "tumbleweed GIF" [ref=e225]
+        - link "tumbleweed GIF" [ref=e226] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweed-KOy9r0Fj1NKso
+          - img "tumbleweed GIF" [ref=e228]
+      - generic [ref=e229]:
+        - link "Locked In Phone GIF by Octo Gaming" [ref=e230] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/OctoGaming-cowboy-octo-cow-boy-kk9d4mPBtIaY9Hh9sB
+          - img "Locked In Phone GIF by Octo Gaming" [ref=e232]
+        - 'link "page content GIF #page #content #front" [ref=e233] [cursor=pointer]':
+          - /url: https://giphy.com/gifs/page-front-content-EidVFji65j0oU
+          - img "page content GIF" [ref=e235]
+          - generic [ref=e236]:
+            - generic [ref=e237]: "#page"
+            - generic [ref=e238]: "#content"
+            - generic [ref=e239]: "#front"
+        - 'link "No One Tumbleweed GIF #no one #tumbleweed #tumbleweeds" [ref=e240] [cursor=pointer]':
+          - /url: https://giphy.com/gifs/tumbleweed-CJN2cdXD51Q2c
+          - img "No One Tumbleweed GIF" [ref=e242]
+          - generic [ref=e243]:
+            - generic [ref=e244]: "#no one"
+            - generic [ref=e245]: "#tumbleweed"
+            - generic [ref=e246]: "#tumbleweeds"
+        - link "Tumbleweed GIF" [ref=e247] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweed-VqYyKYygtFvz2
+          - img "Tumbleweed GIF" [ref=e249]
+        - link "awkward the simpsons GIF" [ref=e250] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweeds-tumbleweed-tumble-weed-qwJMG80aUfVKM
+          - img "awkward the simpsons GIF" [ref=e252]
+        - link "tumbleweed GIF" [ref=e253] [cursor=pointer]:
+          - /url: https://giphy.com/gifs/tumbleweed-v3lHvdBs87Pji
+          - img "tumbleweed GIF" [ref=e255]
+  - alert [ref=e264]
